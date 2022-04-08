@@ -2,8 +2,8 @@
 
 /**
  * @Description: Procesa datos de autenticación del usuario, para crear las respectivas sesiones
- * @User: joaquin reyes
- * @Date: 25/02/19
+ * @User: andrea rodriguez 
+ * @Date: 25/08/21
  */
 
 require_once (dirname(__FILE__).'/../configImport.php');

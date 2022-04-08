@@ -5,9 +5,9 @@ require_once (dirname(__FILE__).'/../configImport.php');
 
 /**
  * @Description: Métodos que se encargan de procesar las validaciones específicas para
- * @User: Joaquin Reyes
- * @Actualization: luis.chamorro
- * @Date: 06/Ago/2020
+ * @User: Andrea Rodriguez
+ * @Actualization: ivan.quesada
+ * @Date: 06/02/2022
  */
 
 //En esta es la calse general para la validacion
